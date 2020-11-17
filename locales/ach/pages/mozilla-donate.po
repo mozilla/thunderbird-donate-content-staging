@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-11-17 17:33:29.836014+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: eba74691-5a16-41bf-8a1e-96191c6e3c12\n"
+
+msgctxt "title"
+msgid "Give to Thunderbird"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By donating you’ll help ensure it stays that way and contribute towards future "
+"development. Will you give today?"
+msgstr ""
+
+msgctxt "intro"
+msgid "While Thunderbird is now an independent project separate from Mozilla, Mozilla has agreed to collect donations on our behalf."
+msgstr ""
